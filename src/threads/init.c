@@ -1,4 +1,4 @@
-#include "threads/init.h"
+#include "init.h"
 #include <console.h>
 #include <debug.h>
 #include <inttypes.h>

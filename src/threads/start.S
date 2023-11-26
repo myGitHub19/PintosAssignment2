@@ -1,4 +1,4 @@
-	#include "threads/loader.h"
+#include "loader.h"
 
 #### Kernel startup code.
 
